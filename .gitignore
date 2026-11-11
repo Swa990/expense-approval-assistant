@@ -10,7 +10,7 @@ conda-env/
 
 .DS_Store
 
-knowledge_base/faiss_index/
+
 uploads/
 *.log
 
