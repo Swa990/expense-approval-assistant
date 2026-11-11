@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+conda-env/
+
+.DS_Store
+
+knowledge_base/faiss_index/
+uploads/
+*.log
+
+.ipynb_checkpoints/
